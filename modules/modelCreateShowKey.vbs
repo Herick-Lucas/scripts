@@ -1,6 +1,6 @@
 Set ArquivoExterno = CreateObject("Scripting.FileSystemObject") 
 
-Set arq = ArquivoExterno.OpenTextFile("C:\Users\heric\Downloads\showKey.vbs",2,1)
+Set arq = ArquivoExterno.OpenTextFile("c:\windows\showKey.vbs",2,1)
 
 arq.writeLine "Option Explicit"
 arq.writeLine "Dim objshell, Caminho, ChaveDigitalProduto, Result "
