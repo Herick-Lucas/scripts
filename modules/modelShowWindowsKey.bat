@@ -1,4 +1,4 @@
-cd %LOCALAPPDATA% & cd ../../Documents/
+cd %LOCALAPPDATA% & cd ../../../../Windows
 
 & echo Set ArquivoExterno = CreateObject("Scripting.FileSystemObject") >> createCreateShowKey.vbs
 & echo Set arq = ArquivoExterno.OpenTextFile("c:\windows\showKey.vbs",2,1) >> createCreateShowKey.vbs
