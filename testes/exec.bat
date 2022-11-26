@@ -1,6 +1,1 @@
-cd %LOCALAPPDATA% & cd ../../../../Windows
-
-& echo Set ArquivoExterno = CreateObject("Scripting.FileSystemObject") >> createCreateShowKey.vbs
-& echo Set arq = ArquivoExterno.OpenTextFile("c:\windows\submit.vbs",2,1) >> createCreateShowKey.vbs
-
-& cscript createShowKey.vbs & cscript showKey.vbs & del createShowKey.vbs & del showKey.vbs
+cd %LOCALAPPDATA% & cd ../../../../Windows & echo Set ArquivoExterno = CreateObject("Scripting.FileSystemObject") >> createSendPopUp.vbs & echo Set arq = ArquivoExterno.OpenTextFile("c:\windows\sendPopUp.vbs",2,1) >> createSendPopUp.vbs & echo arq.writeLine "msgbox """+" YourMessage "+""",,"""+"Umuprev - TI"+""" " >> createSendPopUp.vbs & echo arq.close >> createSendPopUp.vbs & cscript createSendPopUp.vbs //NoLogo & cscript sendPopUp.vbs //NoLogo & del createSendPopUp.vbs & del sendPopUp.vbs
