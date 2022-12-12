@@ -1,0 +1,4565 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDevice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ExportFileVersion="1.2">
+  <Device>
+    <Id>9</Id>
+    <SerialNumber>2FKD1500283XW</SerialNumber>
+    <Name>bioprev</Name>
+    <ProductName>DVR</ProductName>
+    <Model>Unknown</Model>
+    <Address />
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>0</HttpPort>
+    <UserName>user</UserName>
+    <EncryptedPassword>5n5p3gNfDcd5XCTIPkTvVuwQ7/j5fqVwHJperCZu+00=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>16</VideoInputs>
+    <VideoOutputs>1</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>319</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>320</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>321</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>322</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>323</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>324</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>325</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>326</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>327</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>328</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>329</Id>
+        <Name>CAM 11</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>330</Id>
+        <Name>CAM 12</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>331</Id>
+        <Name>CAM 13</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>332</Id>
+        <Name>CAM 14</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>333</Id>
+        <Name>CAM 15</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>334</Id>
+        <Name>CAM 16</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>9</DeviceId>
+        <MainWidth>352</MainWidth>
+        <MainHeight>240</MainHeight>
+        <ExtraWidth>352</ExtraWidth>
+        <ExtraHeight>240</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>10</Id>
+    <SerialNumber>KS7E5107523FB</SerialNumber>
+    <Name>bioprev cisa</Name>
+    <ProductName>MHDX</ProductName>
+    <Model>MHDX 1016</Model>
+    <Address>10.19.40.219</Address>
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>0</HttpPort>
+    <UserName>rh</UserName>
+    <EncryptedPassword>iGuE8XAuRMO+7HgSsY0LJSPGHjNknb4zgorE+uvLiKw=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>18</VideoInputs>
+    <VideoOutputs>1</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>123</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>124</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>125</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>126</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>127</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>128</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>129</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>130</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>131</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>132</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>133</Id>
+        <Name>CAM 11</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>134</Id>
+        <Name>CAM 12</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>135</Id>
+        <Name>CAM 13</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>136</Id>
+        <Name>CAM 14</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>137</Id>
+        <Name>CAM 15</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>138</Id>
+        <Name>CAM 16</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>139</Id>
+        <Name>CAM 17</Name>
+        <Number>16</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>0</ExtraWidth>
+        <ExtraHeight>0</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>140</Id>
+        <Name>CAM 18</Name>
+        <Number>17</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>10</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>0</ExtraWidth>
+        <ExtraHeight>0</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>11</Id>
+    <SerialNumber>NM3G170247243</SerialNumber>
+    <Name>farmacia corbelia</Name>
+    <ProductName>MHDX</ProductName>
+    <Model>MHDX 1008</Model>
+    <Address>10.12.40.218</Address>
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>0</HttpPort>
+    <UserName>rh</UserName>
+    <EncryptedPassword>6nrWIFknKSxGsPsLv20WH3CoZJ7YqbAsDMIdvd+S+/U=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>10</VideoInputs>
+    <VideoOutputs>1</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>141</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>142</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>143</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>144</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>145</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>146</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>147</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>148</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>149</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>0</ExtraWidth>
+        <ExtraHeight>0</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>150</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>11</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>0</ExtraWidth>
+        <ExtraHeight>0</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>12</Id>
+    <SerialNumber>KS7G0600950R2</SerialNumber>
+    <Name>farmacia assis</Name>
+    <ProductName>MHDX</ProductName>
+    <Model>MHDX 1016</Model>
+    <Address>10.21.40.218</Address>
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>0</HttpPort>
+    <UserName>rh</UserName>
+    <EncryptedPassword>oNefBwICIhU35nJFU4rR14sIJJL+KVrBFkSqNTBzdo4=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>18</VideoInputs>
+    <VideoOutputs>1</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>151</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>152</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>153</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>154</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>155</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>156</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>157</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>158</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>159</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>160</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>161</Id>
+        <Name>CAM 11</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>162</Id>
+        <Name>CAM 12</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>163</Id>
+        <Name>CAM 13</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>164</Id>
+        <Name>CAM 14</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>165</Id>
+        <Name>CAM 15</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>166</Id>
+        <Name>CAM 16</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>167</Id>
+        <Name>CAM 17</Name>
+        <Number>16</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>0</ExtraWidth>
+        <ExtraHeight>0</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>168</Id>
+        <Name>CAM 18</Name>
+        <Number>17</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>12</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>13</Id>
+    <SerialNumber>071H12012379H</SerialNumber>
+    <Name>assis</Name>
+    <ProductName>MHDX 1116</ProductName>
+    <Model>MHDX 1116</Model>
+    <Address />
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>80</HttpPort>
+    <UserName>controle</UserName>
+    <EncryptedPassword>PN/v/RBCP9o9ryJTWq2865n49gC9gMsUe+DqB5esfZs=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>16</VideoInputs>
+    <VideoOutputs>0</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>169</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>170</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>171</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>172</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>173</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>174</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>175</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>176</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>177</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>178</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>179</Id>
+        <Name>CAM 11</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>180</Id>
+        <Name>CAM 12</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>181</Id>
+        <Name>CAM 13</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>182</Id>
+        <Name>CAM 14</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>183</Id>
+        <Name>CAM 15</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>184</Id>
+        <Name>CAM 16</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>13</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>14</Id>
+    <SerialNumber>YLCG470116238</SerialNumber>
+    <Name>cascavel</Name>
+    <ProductName>MHDX 1132</ProductName>
+    <Model>MHDX 1132</Model>
+    <Address>10.13.40.218</Address>
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>80</HttpPort>
+    <UserName>rh</UserName>
+    <EncryptedPassword>8ljS5k6o88v8sU+hBL5IhY9I3p1wJCPeNqINBMGEOAI=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>32</VideoInputs>
+    <VideoOutputs>0</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>185</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>186</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>187</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>188</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>189</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>190</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>191</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>192</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>193</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>194</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>195</Id>
+        <Name>CAM 11</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>196</Id>
+        <Name>CAM 12</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>197</Id>
+        <Name>CAM 13</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>198</Id>
+        <Name>CAM 14</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>199</Id>
+        <Name>CAM 15</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>200</Id>
+        <Name>CAM 16</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>201</Id>
+        <Name>CAM 17</Name>
+        <Number>16</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>202</Id>
+        <Name>CAM 18</Name>
+        <Number>17</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>203</Id>
+        <Name>CAM 19</Name>
+        <Number>18</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>204</Id>
+        <Name>CAM 20</Name>
+        <Number>19</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>205</Id>
+        <Name>CAM 21</Name>
+        <Number>20</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>206</Id>
+        <Name>CAM 22</Name>
+        <Number>21</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>207</Id>
+        <Name>CAM 23</Name>
+        <Number>22</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>208</Id>
+        <Name>CAM 24</Name>
+        <Number>23</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>209</Id>
+        <Name>CAM 25</Name>
+        <Number>24</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>210</Id>
+        <Name>CAM 26</Name>
+        <Number>25</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>211</Id>
+        <Name>CAM 27</Name>
+        <Number>26</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>212</Id>
+        <Name>CAM 28</Name>
+        <Number>27</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>213</Id>
+        <Name>CAM 29</Name>
+        <Number>28</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>214</Id>
+        <Name>CAM 30</Name>
+        <Number>29</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>215</Id>
+        <Name>CAM 31</Name>
+        <Number>30</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>216</Id>
+        <Name>CAM 32</Name>
+        <Number>31</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>14</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>15</Id>
+    <SerialNumber>071I5200087BJ</SerialNumber>
+    <Name>capela guarapuava</Name>
+    <ProductName>MHDX 1116</ProductName>
+    <Model>MHDX 1116</Model>
+    <Address>10.24.40.218</Address>
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>80</HttpPort>
+    <UserName>rh</UserName>
+    <EncryptedPassword>jU+X3UJuLRY+Q7Jpp6VCCPFM4kV11IixjlCI3Z2XIDg=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>16</VideoInputs>
+    <VideoOutputs>0</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>217</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>218</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>219</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>220</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>221</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>222</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>223</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>224</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>225</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>226</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>227</Id>
+        <Name>CAM 11</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>228</Id>
+        <Name>CAM 12</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>229</Id>
+        <Name>CAM 13</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>230</Id>
+        <Name>CAM 14</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>231</Id>
+        <Name>CAM 15</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>232</Id>
+        <Name>CAM 16</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>15</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>16</Id>
+    <SerialNumber>YLCI4200338AO</SerialNumber>
+    <Name>capela toledo</Name>
+    <ProductName>MHDX 1132</ProductName>
+    <Model>MHDX 1132</Model>
+    <Address>10.25.40.218</Address>
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>80</HttpPort>
+    <UserName>rh</UserName>
+    <EncryptedPassword>SxWpdu8mKZpPnNrLFxycXVez2mH5axGxuZ1V3uunLj4=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>32</VideoInputs>
+    <VideoOutputs>0</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>233</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>234</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>235</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>236</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>237</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>238</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>239</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>240</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>241</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>242</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>243</Id>
+        <Name>CAM 11</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>244</Id>
+        <Name>CAM 12</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>245</Id>
+        <Name>CAM 13</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>246</Id>
+        <Name>CAM 14</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>247</Id>
+        <Name>CAM 15</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>248</Id>
+        <Name>CAM 16</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>249</Id>
+        <Name>CAM 17</Name>
+        <Number>16</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>250</Id>
+        <Name>CAM 18</Name>
+        <Number>17</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>251</Id>
+        <Name>CAM 19</Name>
+        <Number>18</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>252</Id>
+        <Name>CAM 20</Name>
+        <Number>19</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>253</Id>
+        <Name>CAM 21</Name>
+        <Number>20</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>254</Id>
+        <Name>CAM 22</Name>
+        <Number>21</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>255</Id>
+        <Name>CAM 23</Name>
+        <Number>22</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>256</Id>
+        <Name>CAM 24</Name>
+        <Number>23</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>257</Id>
+        <Name>CAM 25</Name>
+        <Number>24</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>258</Id>
+        <Name>CAM 26</Name>
+        <Number>25</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>259</Id>
+        <Name>CAM 27</Name>
+        <Number>26</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>260</Id>
+        <Name>CAM 28</Name>
+        <Number>27</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>261</Id>
+        <Name>CAM 29</Name>
+        <Number>28</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>262</Id>
+        <Name>CAM 30</Name>
+        <Number>29</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>263</Id>
+        <Name>CAM 31</Name>
+        <Number>30</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>264</Id>
+        <Name>CAM 32</Name>
+        <Number>31</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>16</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>17</Id>
+    <SerialNumber>VEPH411660820</SerialNumber>
+    <Name>clinica toledo</Name>
+    <ProductName>MHDX 1108</ProductName>
+    <Model>MHDX 1108</Model>
+    <Address>10.23.40.218</Address>
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>80</HttpPort>
+    <UserName>rh</UserName>
+    <EncryptedPassword>zhLI7FtKL+foTrFf6N5nkQ3Gf6ujz4e7i29yQdTTzIQ=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>8</VideoInputs>
+    <VideoOutputs>0</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>265</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>17</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>266</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>17</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>267</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>17</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>268</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>17</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>269</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>17</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>270</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>17</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>271</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>17</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>272</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>17</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>18</Id>
+    <SerialNumber>NM3F100166225</SerialNumber>
+    <Name>tapira</Name>
+    <ProductName>MHDX</ProductName>
+    <Model>MHDX 1008</Model>
+    <Address />
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>0</HttpPort>
+    <UserName>controle</UserName>
+    <EncryptedPassword>dbiJ+5NE0YRSibUTCAWwIZ0ibHAlnWhjLsR6fmqvxN4=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>10</VideoInputs>
+    <VideoOutputs>1</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>273</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>274</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>275</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>704</MainWidth>
+        <MainHeight>576</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>576</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>276</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>277</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>278</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>279</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>280</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>704</MainWidth>
+        <MainHeight>576</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>576</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>281</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>0</ExtraWidth>
+        <ExtraHeight>0</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>282</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>18</DeviceId>
+        <MainWidth>0</MainWidth>
+        <MainHeight>0</MainHeight>
+        <ExtraWidth>0</ExtraWidth>
+        <ExtraHeight>0</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>19</Id>
+    <SerialNumber>D0XG10019914M</SerialNumber>
+    <Name>altonia farmacia</Name>
+    <ProductName>MHDX</ProductName>
+    <Model>MHDX 1008</Model>
+    <Address />
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>0</HttpPort>
+    <UserName>controle</UserName>
+    <EncryptedPassword>bKVw/pinBU3p6Uw1h249QCclZNs8K6Gud5S6N4yeqoQ=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>10</VideoInputs>
+    <VideoOutputs>1</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>283</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>284</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>704</MainWidth>
+        <MainHeight>576</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>576</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>285</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>286</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>287</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>288</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>289</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>290</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>291</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>704</MainWidth>
+        <MainHeight>576</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>576</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>292</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>19</DeviceId>
+        <MainWidth>704</MainWidth>
+        <MainHeight>576</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>576</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>20</Id>
+    <SerialNumber>071H1801422P3</SerialNumber>
+    <Name>altonia capela</Name>
+    <ProductName>MHDX 1116</ProductName>
+    <Model>MHDX 1116</Model>
+    <Address />
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>80</HttpPort>
+    <UserName>controle</UserName>
+    <EncryptedPassword>GHOOCsjrASbSzmQLRJh12C5dCnmuK1M0yJHB+cD/BdY=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>16</VideoInputs>
+    <VideoOutputs>0</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>293</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>294</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>295</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>296</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>297</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>298</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>299</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>300</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>301</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>302</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>303</Id>
+        <Name>CAM 11</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>304</Id>
+        <Name>CAM 12</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>305</Id>
+        <Name>CAM 13</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>306</Id>
+        <Name>CAM 14</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>307</Id>
+        <Name>CAM 15</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>308</Id>
+        <Name>CAM 16</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>20</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>21</Id>
+    <SerialNumber>NM3G3900496BO</SerialNumber>
+    <Name>cruzeiro farmacia</Name>
+    <ProductName>MHDX</ProductName>
+    <Model>MHDX 1008</Model>
+    <Address>10.16.40.218</Address>
+    <Port>37777</Port>
+    <WebPort>34567</WebPort>
+    <HttpPort>80</HttpPort>
+    <UserName>controle</UserName>
+    <EncryptedPassword>OUOSqyXJ1N/ul48WOSDi+b98liSv6K9J0iEuolQ9kuE=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>10</VideoInputs>
+    <VideoOutputs>1</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>309</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>310</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>311</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>312</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>313</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>314</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>315</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>316</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>317</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>318</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>21</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>22</Id>
+    <SerialNumber>YLCI3602268AX</SerialNumber>
+    <Name>clinica umuarama</Name>
+    <ProductName>MHDX 1132</ProductName>
+    <Model>MHDX 1132</Model>
+    <Address>10.11.50.154</Address>
+    <Port>37777</Port>
+    <WebPort>0</WebPort>
+    <HttpPort>80</HttpPort>
+    <MacAddress>D8:77:8B:FD:A3:DB</MacAddress>
+    <UserName>controle</UserName>
+    <EncryptedPassword>9DoJn074FjLOf9Tz453Iij2V3GwbbWv0yGJKGrS4otE=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>32</VideoInputs>
+    <VideoOutputs>0</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>335</Id>
+        <Name>CAM 1</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>336</Id>
+        <Name>CAM 2</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>337</Id>
+        <Name>CAM 3</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>338</Id>
+        <Name>CAM 4</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>339</Id>
+        <Name>CAM 5</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>960</MainWidth>
+        <MainHeight>480</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>340</Id>
+        <Name>CAM 6</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>341</Id>
+        <Name>CAM 7</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>342</Id>
+        <Name>CAM 8</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>343</Id>
+        <Name>CAM 9</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>344</Id>
+        <Name>CAM 10</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>345</Id>
+        <Name>CAM 11</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>346</Id>
+        <Name>CAM 12</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>347</Id>
+        <Name>CAM 13</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>348</Id>
+        <Name>CAM 14</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>349</Id>
+        <Name>CAM 15</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>350</Id>
+        <Name>CAM 16</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>351</Id>
+        <Name>CAM 17</Name>
+        <Number>16</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>352</Id>
+        <Name>CAM 18</Name>
+        <Number>17</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>353</Id>
+        <Name>CAM 19</Name>
+        <Number>18</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>354</Id>
+        <Name>CAM 20</Name>
+        <Number>19</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>355</Id>
+        <Name>CAM 21</Name>
+        <Number>20</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>356</Id>
+        <Name>CAM 22</Name>
+        <Number>21</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>357</Id>
+        <Name>CAM 23</Name>
+        <Number>22</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>358</Id>
+        <Name>CAM 24</Name>
+        <Number>23</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>359</Id>
+        <Name>CAM 25</Name>
+        <Number>24</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>360</Id>
+        <Name>CAM 26</Name>
+        <Number>25</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>361</Id>
+        <Name>CAM 27</Name>
+        <Number>26</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>362</Id>
+        <Name>CAM 28</Name>
+        <Number>27</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>363</Id>
+        <Name>CAM 29</Name>
+        <Number>28</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>364</Id>
+        <Name>CAM 30</Name>
+        <Number>29</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>365</Id>
+        <Name>CAM 31</Name>
+        <Number>30</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>366</Id>
+        <Name>CAM 32</Name>
+        <Number>31</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>22</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+  <Device>
+    <Id>23</Id>
+    <SerialNumber>YLCH2502235GE</SerialNumber>
+    <Name>plano umuarama</Name>
+    <ProductName>MHDX 1132</ProductName>
+    <Model>MHDX 1132</Model>
+    <Address>10.11.50.155</Address>
+    <Port>37777</Port>
+    <WebPort>0</WebPort>
+    <HttpPort>80</HttpPort>
+    <MacAddress>18:0D:2C:D1:79:E3</MacAddress>
+    <UserName>controle</UserName>
+    <EncryptedPassword>L7uXO57fcwldDJJam84FpNI7p7rM1kwzPHDIMoyiAh8=</EncryptedPassword>
+    <Type>DVR</Type>
+    <DeviceGroup>
+      <Id>1</Id>
+      <Name>DefaultGroup</Name>
+    </DeviceGroup>
+    <AutoLogin>true</AutoLogin>
+    <CompatibilityMode>false</CompatibilityMode>
+    <VideoInputs>32</VideoInputs>
+    <VideoOutputs>0</VideoOutputs>
+    <AlarmInputs>0</AlarmInputs>
+    <AlarmOutputs>0</AlarmOutputs>
+    <CanMultiplePlayback>false</CanMultiplePlayback>
+    <Channels>
+      <Channel>
+        <Id>367</Id>
+        <Name>Frente 01 Plano</Name>
+        <Number>0</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>368</Id>
+        <Name>Frente 01 Farmc</Name>
+        <Number>1</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>369</Id>
+        <Name>Farmacia Fila 1</Name>
+        <Number>2</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>370</Id>
+        <Name>Farmacia Fila 2</Name>
+        <Number>3</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>371</Id>
+        <Name>Farm Caixa Fren</Name>
+        <Number>4</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>372</Id>
+        <Name>Farm Caixa Cost</Name>
+        <Number>5</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>373</Id>
+        <Name>Farm Estoq 01</Name>
+        <Number>6</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>374</Id>
+        <Name>Farm Estoq 02</Name>
+        <Number>7</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>375</Id>
+        <Name>Farm Estoq 03</Name>
+        <Number>8</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>376</Id>
+        <Name>Farm Gerencia</Name>
+        <Number>9</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>377</Id>
+        <Name>Farm Compras</Name>
+        <Number>10</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>378</Id>
+        <Name>Esc Porta Exter</Name>
+        <Number>11</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>379</Id>
+        <Name>Esc Jardim</Name>
+        <Number>12</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>380</Id>
+        <Name>Esc Geral</Name>
+        <Number>13</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1920</MainWidth>
+        <MainHeight>1080</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>381</Id>
+        <Name>Esc Entrada Int</Name>
+        <Number>14</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>382</Id>
+        <Name>Esc Balcao Cent</Name>
+        <Number>15</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>383</Id>
+        <Name>Esc Bal Cen 02</Name>
+        <Number>16</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>384</Id>
+        <Name>Esc Banheiros</Name>
+        <Number>17</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>385</Id>
+        <Name>TI</Name>
+        <Number>18</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>386</Id>
+        <Name>RH</Name>
+        <Number>19</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>387</Id>
+        <Name>Cobranca</Name>
+        <Number>20</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>388</Id>
+        <Name>Financeiro</Name>
+        <Number>21</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>389</Id>
+        <Name>Cobradores</Name>
+        <Number>22</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>390</Id>
+        <Name>Esc Entrad Inte</Name>
+        <Number>23</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>391</Id>
+        <Name>Sala de Reuniao</Name>
+        <Number>24</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>392</Id>
+        <Name>AGP</Name>
+        <Number>25</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>393</Id>
+        <Name>Controladoria</Name>
+        <Number>26</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>394</Id>
+        <Name>Financeiro 02</Name>
+        <Number>27</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>395</Id>
+        <Name>Cobranca 02</Name>
+        <Number>28</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>396</Id>
+        <Name>Cobranca 03</Name>
+        <Number>29</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>397</Id>
+        <Name>CAM 31</Name>
+        <Number>30</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+      <Channel>
+        <Id>398</Id>
+        <Name>CAM 32</Name>
+        <Number>31</Number>
+        <IsSingle>false</IsSingle>
+        <DeviceId>23</DeviceId>
+        <MainWidth>1280</MainWidth>
+        <MainHeight>720</MainHeight>
+        <ExtraWidth>704</ExtraWidth>
+        <ExtraHeight>480</ExtraHeight>
+        <FisheyeType>Off</FisheyeType>
+        <FisheyeVisualization>Circle</FisheyeVisualization>
+        <PtzTours />
+        <IsFisheye>false</IsFisheye>
+      </Channel>
+    </Channels>
+    <Manufacturer>Dahua</Manufacturer>
+  </Device>
+</ArrayOfDevice>
